@@ -13,5 +13,5 @@ A responsive and interactive personal portfolio website built using **HTML**, **
 ## 🛠️ Technologies Used
 
 - HTML
-- CSS (Media Queries, Flexbox, Grid)
+- CSS
 - JavaScript (DOM manipulation)
